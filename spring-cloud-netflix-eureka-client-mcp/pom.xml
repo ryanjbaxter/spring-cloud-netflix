@@ -10,7 +10,7 @@
 	<name>Archetype - sprint-cloud-netflix-eureka-client-mcp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring-ai.version>1.0.0-M8</spring-ai.version>
+		<spring-ai.version>1.0.0</spring-ai.version>
 	</properties>
 	<dependencies>
 		<dependency>
